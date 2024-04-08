@@ -17,7 +17,7 @@
     <dependency>
       <groupId>io.airbrake</groupId>
       <artifactId>javabrake</artifactId>
-      <version>0.1.4</version>
+      <version>0.2.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
